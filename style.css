@@ -1,0 +1,17 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    background: gray;
+    align-items: center;
+  }
+  #image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+  }
+  
+  #tribute-info{
+    text-align: center;
+    padding-left: 20vw;
+    padding-right: 20vw;
+  }
